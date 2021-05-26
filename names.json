@@ -1,0 +1,19 @@
+{
+   "namespace": [
+    {"apiVersion": "v1",
+     "kind": "Namespace",
+     "metadata": {
+                  "name": "nginx"
+                 }
+                },
+
+    {"apiVersion": "v1",
+        "kind": "Pod",
+        "metadata": {
+                     "name": "app"
+                    }
+    } 
+   ] 
+   
+}
+   
